@@ -22,7 +22,7 @@ It covers **physics-constrained** and **physics-informed** approaches, with exam
 
 - 📝 [Notebook solution](https://github.com/Chutlhu/EUSIPCO25_PIML_tutorial/blob/main/EUSIPCO25_Tutorial_slides-solutions.ipynb)
 - 🌐 [EUSIPCO 2025 Tutorial Page](https://eusipco2025.org/tutorials/)  
-- 📑 [Presentation Slides (PDF)](https://drive.google.com/file/d/1VBE7zODjfr-hGUn-hkI23QTezPFnJQsG/view?usp=drive_link)
+- 📑 [Presentation Slides (PDF)](https://polimi365-my.sharepoint.com/:b:/g/personal/10548774_polimi_it/IQAL1lyEp-W3RbsWjL-S_M-pAc8BpBIeJXKuzH1H1NkdTkM?e=f4GSHG)
 
 ---
 
